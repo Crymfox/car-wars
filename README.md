@@ -1,6 +1,6 @@
 # Car Wars Robotics Competition 2D Demo Game
 
-This project is a demo created for the Car Wars robotics competition during Fast & Furious Robots 3.0 2020 in [INSAT](https://insat.rnu.tn/). The game is developed using JavaScript with the help of the p5.js and matter.js libraries. 
+This project is a demo created for the Car Wars robotics competition during Fast & Furious Robots 3.0 2020 in [INSAT](https://insat.rnu.tn/). The game is developed using JavaScript with the help of the [p5.js](https://p5js.org/) and [matter.js](https://brm.io/matter-js/) libraries. 
 
 ## Game Specifications
 
